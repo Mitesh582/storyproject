@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0 auto;
+    background: white;
+  }
+
+  .card-img-top {
+    width: 610px;
+    height: 435px;
+    border-radius: 5;
+  }
+
+  .scroll-div{
+    width: 600px;
+    height: 400px;
+    font-family:'Times New Roman', Times, serif ;
+    padding: 10px;
+    overflow: hidden;
+    overflow-y: scroll;
+  }

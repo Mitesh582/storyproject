@@ -1,0 +1,13 @@
+  body {
+    background: rgb(130, 202, 236);
+  }
+  
+  .wrapper {
+    max-width: 950px;
+    min-height: 520px;
+    background: #fff;
+    margin: 10px auto;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  }
